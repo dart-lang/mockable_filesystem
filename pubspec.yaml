@@ -7,4 +7,4 @@ dependencies:
   logging: ">=0.6.5"
   path: ">=0.6.5"
 dev_dependencies:
-  unittest: ">=0.6.5"
+  test: ^0.12.0
